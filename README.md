@@ -47,8 +47,4 @@ Building UI first before adding interactivity
 
 Add JavaScript to enable:
 
-Play/pause functionality
 
-Update current playing song in bottom bar
-
-Display progress and animation
